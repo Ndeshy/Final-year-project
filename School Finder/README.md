@@ -1,7 +1,7 @@
 # school-finder-android
 The school finder application.
 
-Currently the school finder enables users to browse and filter schools listed on the school finder database. The schools can be viewed on a map (currently only on Google Maps) or browsed through on a list.
+The school finder application enables users to browse and filter schools listed on the school finder database. The schools can be viewed on a map (currently only on Google Maps) or browsed through on a list.
 
 The filters include:
 - Keyword search
